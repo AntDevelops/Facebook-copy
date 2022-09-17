@@ -1,2 +1,2 @@
-Thanks for visiting. Follow me @AntDevelops
-# FB-clone
+Thanks for viewing. Follow me @AntDevelops!
+# Facebook-copy
